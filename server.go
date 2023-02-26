@@ -1,4 +1,4 @@
-// Go React is a starter using a fiber backend and React frontend.
+// Go React Quickstart is a starter using a fiber backend and React frontend.
 package main
 
 import "github.com/gofiber/fiber/v2"
